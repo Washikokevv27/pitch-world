@@ -54,4 +54,4 @@ Open the application on your browser `127.0.0.1:5000`.
 If you have any question or contributions, please email me at [washikokevv27@gmail.com]
 ## License
 * *MIT License:*
-* Copyright (c) 2020 **Washiko Kelvin**
+* Copyright (c) 2020 **KELVIN WASHIKO**
